@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg1 {
+    background-image: url("https://images7.alphacoders.com/134/1349727.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card1 {
+    background-color: #420e0e;
+    height: 30vh;
+    width: 100vw;
+    border-radius: 14px;
+    border-width: 0px;
+}
+
+.head1 {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 45px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.para1 {
+    color: white;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 16px;
+}
+
+.button1 {
+    color: black;
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    font-family: "Papyrus";
+    font-weight: 800;
+    border-radius: 13px;
+    border-width: 0px;
+    margin-top: 10px;
+}
+
+.bg2 {
+    background-image: url("https://wallpapers.com/images/high/bakery-sweet-foods-5x1czznstca51era.webp");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card2 {
+    background-color: #e8d2b7;
+    height: 30vh;
+    width: 15vw;
+    border-radius: 6px;
+    margin-left: 310px;
+    margin-top: 50px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.image1 {
+    height: 20vh;
+    width: 15vw;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.head2 {
+    color: black;
+    font-family: "Papyrus";
+    font-size: 22px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+.card3 {
+    background-color: #e8d2b7;
+    height: 30vh;
+    width: 15vw;
+    border-radius: 6px;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.button2 {
+    color: black;
+    background-color: white;
+    height: 35px;
+    width: 200px;
+    font-family: "Papyrus";
+    font-weight: 800;
+    border-radius: 13px;
+    border-width: 0px;
+    margin-top: 90px;
+}
+
+.bg3 {
+    background-image: url("https://img.freepik.com/free-vector/sweets-sketch-seamless-pattern_98292-5197.jpg?t=st=1727004724~exp=1727008324~hmac=374d04bf0f7b72b95a42d659cd368a687d3bf276d1125e2ae92bd9f3220daa56&w=740");
+    height: 190vh;
+    background-size: cover;
+}
+
+.card4 {
+    background-color: #4a2329;
+    height: 70vh;
+    width: 35vw;
+    border-radius: 14px;
+    margin-left: 92px;
+    margin-top: 90px;
+}
+
+.image2 {
+    height: 20vh;
+    width: 25vw;
+    padding-top: 25px;
+    padding-left: 35px;
+}
+
+.head3 {
+    color: white;
+    font-family: "Papyrus";
+    font-size: 32px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.para2 {
+    color: white;
+    text-align: center;
+    font-family: "Papyrus";
+    font-size: 17px;
+    padding-top: 10px;
+}
+
+.pad {
+    margin-left: 105px;
+}
+
+.card5 {
+    background-color: #4a2329;
+    height: 70vh;
+    width: 35vw;
+    border-radius: 14px;
+    margin-left: 112px;
+    margin-top: 90px;
+}
