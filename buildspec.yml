@@ -4,5 +4,5 @@ phases:
   build:
     commands:
       - echo "Starting deployment..."
-      - aws s3 sync . s3://YOUR-BUCKET-NAME --delete --exclude "buildspec.yml" --exclude ".git/*"
+      - aws s3 sync . s3://my-cicd-website-2026 --delete --exclude "buildspec.yml" --exclude ".git/*"
       - echo "Deployment complete!"
