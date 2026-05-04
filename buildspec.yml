@@ -1,14 +1,11 @@
 version: 0.2
 
 phases:
-  install:
-    commands:
-      - echo "Installing..."
-
   build:
     commands:
-      - echo "Deploying to S3..."
-      - pwd
-      - ls -la
-      - aws s3 sync $CODEBUILD_SRC_DIR s3://my-cicd-website-2026 --delete
-      - echo "Deployment done"
+      - echo "Building..."
+
+artifacts:
+  files:
+    - '**/*'
+  name: BuildArtifact
